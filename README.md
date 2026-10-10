@@ -6,15 +6,18 @@ I'm currently pursuing an M.S. degree in Artificial Intelligence at **Dalian Min
 
 - **Email:** [2019082204@stu.dlnu.edu.cn](mailto:2019082204@stu.dlnu.edu.cn)
 
-## 📚 Selected Publications
+📚 Selected Publications
 
-- **Common and Unique Representations for Multi-focus Image Fusion: A Feature Decomposition Paradigm with Text-Driven Enhancement**
-- *IEEE Transactions on Multimedia, 2026* ·
-- **Beyond Spatial-Domain Supervision: A Relation Constrained Space for Multi-Modal Image Fusion**
-- *NeurIPS, 2026* ·
-- **From HSV to Lab: Color Semantic Modulation and Perceptual Constraints in Multimodal Medical Image Fusion**
-- *ICASSP (Oral), 2026* ·
-- **Highlight What You Want: Weakly-Supervised Instance-Level Controllable Infrared-Visible Image Fusion**
-- *ICCV, 2025* · 
+Common and Unique Representations for Multi-focus Image Fusion: A Feature Decomposition Paradigm with Text-Driven Enhancement
+IEEE Transactions on Multimedia (TMM), 2026 · Published · First author
+
+Beyond Spatial-Domain Supervision: A Relation Constrained Space for Multi-Modal Image Fusion
+NeurIPS, 2026 · Accepted · Lead student author
+
+From HSV to Lab: Color Semantic Modulation and Perceptual Constraints in Multimodal Medical Image Fusion
+ICASSP, 2026 · Oral · Published · First author
+
+Highlight What You Want: Weakly-Supervised Instance-Level Controllable Infrared-Visible Image Fusion
+ICCV, 2025 · Published · Co-author
 
 
