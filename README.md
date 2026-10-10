@@ -8,7 +8,7 @@ I'm currently pursuing an M.S. degree in Artificial Intelligence at **Dalian Min
 
 - **Beyond Spatial-Domain Supervision: A Relation Constrained Space for Multi-Modal Image Fusion**  *NeurIPS, 2026* ·
 
-- **From HSV to Lab: Color Semantic Modulation and Perceptual Constraints in Multimodal Medical Image Fusion**  *ICASSP, 2026* · Oral · 
+- **From HSV to Lab: Color Semantic Modulation and Perceptual Constraints in Multimodal Medical Image Fusion**  *ICASSP (Oral), 2026* ·
 
 - **Highlight What You Want: Weakly-Supervised Instance-Level Controllable Infrared-Visible Image Fusion**  *ICCV, 2025* · 
 
