@@ -4,17 +4,13 @@ I'm currently pursuing an M.S. degree in Artificial Intelligence at **Dalian Min
 
 ## 📚 Selected Publications
 
-- **Common and Unique Representations for Multi-focus Image Fusion: A Feature Decomposition Paradigm with Text-Driven Enhancement**  
-  *IEEE Transactions on Multimedia (TMM), 2026* ·
+- **Common and Unique Representations for Multi-focus Image Fusion: A Feature Decomposition Paradigm with Text-Driven Enhancement**  *IEEE Transactions on Multimedia, 2026* ·
 
-- **Beyond Spatial-Domain Supervision: A Relation Constrained Space for Multi-Modal Image Fusion**  
-  *NeurIPS, 2026* ·
+- **Beyond Spatial-Domain Supervision: A Relation Constrained Space for Multi-Modal Image Fusion**  *NeurIPS, 2026* ·
 
-- **From HSV to Lab: Color Semantic Modulation and Perceptual Constraints in Multimodal Medical Image Fusion**  
-  *ICASSP, 2026* · Oral · 
+- **From HSV to Lab: Color Semantic Modulation and Perceptual Constraints in Multimodal Medical Image Fusion**  *ICASSP, 2026* · Oral · 
 
-- **Highlight What You Want: Weakly-Supervised Instance-Level Controllable Infrared-Visible Image Fusion**  
-  *ICCV, 2025* · 
+- **Highlight What You Want: Weakly-Supervised Instance-Level Controllable Infrared-Visible Image Fusion**  *ICCV, 2025* · 
 
 ## 📫 Contact
 
